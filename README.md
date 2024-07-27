@@ -1,0 +1,1 @@
+This project focusses on the differential expression analysis of the gene where we separate the gene based on up-regulated and down-regulated. A dataset of normalized counts is choosen for this project.It is an exploratory project
